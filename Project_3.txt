@@ -1,0 +1,1 @@
+I have plotted the torque speed characteristics for induction machines for the same circuit, separately for motor and generator. 
